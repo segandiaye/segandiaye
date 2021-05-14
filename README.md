@@ -1,0 +1,13 @@
+<h1 align="center"> :clap: Hi, I’m Sega NDIAYE </h1>
+<h3 align="center"> I’m a Full-stack engineer</h4>
+
+:package: **Published npm packages**
+  - [selenium-test-core](https://www.npmjs.com/package/selenium-test-core)
+  - [create-node-starter](https://www.npmjs.com/package/create-node-starter)
+  - [eslint-config-src](https://www.npmjs.com/package/eslint-config-src)
+
+
+<!---
+segandiaye/segandiaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
