@@ -5,6 +5,7 @@
   - [selenium-test-core](https://www.npmjs.com/package/selenium-test-core)
   - [create-node-starter](https://www.npmjs.com/package/create-node-starter)
   - [eslint-config-src](https://www.npmjs.com/package/eslint-config-src)
+  - [extends-string](https://www.npmjs.com/package/extends-string)
 
 
 <!---
