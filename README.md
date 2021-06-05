@@ -1,7 +1,7 @@
 <h1 align="center"> :clap: Hi, I’m Sega NDIAYE </h1>
 <h3 align="center"> I’m a Full-stack engineer</h4>
 
-<p align="center">:heart: **If you can let me a little :star: that will make me happy.** :heart:</p>
+<p align="center">:heart: If you can let me a little :star: that will make me happy. :heart:</p>
 <p align="center">:pray: **Thank you in advance** :pray:</p>
 
 :package: **Published npm packages**
