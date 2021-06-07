@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<p align="center"> You can also follow me on [Stack Overflow](https://stackoverflow.com/users/11550214/sega). </p>
+You can also follow me on [Stack Overflow](https://stackoverflow.com/users/11550214/sega).
 
 
 <!---
