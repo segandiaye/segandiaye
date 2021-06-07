@@ -4,7 +4,7 @@
 <p align="center">I hope you are :satisfied: ?</p>
 <p align="center">:heart: If you can let me a little :star: that will make me happy :smiley:. :heart:</p>
 <p align="center">:pray: Thank you in advance :pray:</p>
-<p align="center">See you soon here or on [Stack Overflow](https://stackoverflow.com/users/11550214/sega).</p>
+<p align="center"> See you soon here or on [Stack Overflow](https://stackoverflow.com/users/11550214/sega) .</p>
 
 :package: **Published npm packages**
   - [selenium-test-core](https://www.npmjs.com/package/selenium-test-core)
