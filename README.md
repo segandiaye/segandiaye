@@ -6,7 +6,6 @@
 <p align="center">:pray: Thank you in advance :pray:</p>
 <p align="center"> See you soon.</p>
 
-You can also follow me on [Stack Overflow](https://stackoverflow.com/users/11550214/sega).
 
 :package: **Published npm packages**
   - [selenium-test-core](https://www.npmjs.com/package/selenium-test-core)
@@ -14,6 +13,11 @@ You can also follow me on [Stack Overflow](https://stackoverflow.com/users/11550
   - [eslint-config-src](https://www.npmjs.com/package/eslint-config-src)
   - [extends-string](https://www.npmjs.com/package/extends-string)
   - [super-number](https://www.npmjs.com/package/super-number)
+
+<br/>
+<br/>
+
+<p align="center"> You can also follow me on [Stack Overflow](https://stackoverflow.com/users/11550214/sega). </p>
 
 
 <!---
