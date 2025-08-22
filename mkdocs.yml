@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: My online CV
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Usage: deployment.md
+  - API Reference: api.md
